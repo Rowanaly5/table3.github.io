@@ -1,0 +1,29 @@
+
+.table-titles{
+    background-color: blueviolet;
+}
+
+
+.first-row{
+        transition: all ease 0.4s;
+        background-color: 6B6B6B;
+
+}
+
+
+.first-col{
+    background-color: ;
+}
+.second-col{
+
+    background-color: ;
+}
+.first-row:hover{
+
+    transform: scale(1.1);
+    background-color: cornflowerblue;
+
+}
+.ul{
+    list-style-type: none;
+}
